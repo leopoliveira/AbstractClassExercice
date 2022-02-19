@@ -1,0 +1,8 @@
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\AbstractMethods\AbstractMethods\bin\Debug\AbstractMethods.exe.config
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\AbstractMethods\AbstractMethods\bin\Debug\AbstractMethods.exe
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\AbstractMethods\AbstractMethods\bin\Debug\AbstractMethods.pdb
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\AbstractMethods\AbstractMethods\obj\Debug\AbstractMethods.csproj.AssemblyReference.cache
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\AbstractMethods\AbstractMethods\obj\Debug\AbstractMethods.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\AbstractMethods\AbstractMethods\obj\Debug\AbstractMethods.csproj.CoreCompileInputs.cache
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\AbstractMethods\AbstractMethods\obj\Debug\AbstractMethods.exe
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\AbstractMethods\AbstractMethods\obj\Debug\AbstractMethods.pdb
